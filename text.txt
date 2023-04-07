@@ -1,0 +1,20 @@
+How to Build Optical Character Recognition (OCR) in Python
+
+01-Nov-2022 — Python OGR is a technology that recognizes and pulls out text in images like
+scanned documents and photos using Python. It can be completed
+
+gy grate
+ttps:/www.ignatiuz.com > blog » data-science > read... 3
+
+Read Text From Images Using Python and EasyOCR
+
+22-Aug-2022 — EasyOCR is the most basic method of implementing OGR. It is a Python library
+that can read text from photos in over 40 different languages. It
+
+GeeksforGeeks
+hnttos:/wwnw.geeksforgeeks.org »reading-text-from-th..
+
+Reading Text from the Image using Tesseract
+
+01-Dec-2022 — Pytesseract or Python-tesseract is an Optical Character Recognition (OCR)
+tool for python. It will read and recognize the text in images,
